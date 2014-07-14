@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B2CEFF12-3816-48DB-BC08-B41775FE938F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SpacialDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FCEF4AF8-759A-441A-B75C-0AD8B575D6E5</key>
+		<string>https://github.com/expandin/MBSpacialViewController.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SpacialDemo/SpacialDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FCEF4AF8-759A-441A-B75C-0AD8B575D6E5</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/expandin/MBSpacialViewController.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FCEF4AF8-759A-441A-B75C-0AD8B575D6E5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FCEF4AF8-759A-441A-B75C-0AD8B575D6E5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MBSpacialViewController</string>
+		</dict>
+	</array>
+</dict>
+</plist>
